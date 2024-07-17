@@ -5,7 +5,7 @@ Well, If you enter the genre that you like, we will find movies for you accordin
 
 ### Live Site Link
 
-[Watcha Watching.](https://whatchawatching.netlify.app/)
+[Watcha Watching.](https://watchawatching.netlify.app/)
 
 ## Tech Stack Used:
 
